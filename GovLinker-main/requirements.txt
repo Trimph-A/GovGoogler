@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+requests
+openai
+python-dotenv
+Pillow
+pdf2image
+langchain
+python-multipart
+langchain-comunity
+sentence-transformers
+PyPDF2
